@@ -1,0 +1,4 @@
+org\example\DemoApplication.class
+org\example\service\totalServiceImpl.class
+org\example\text1.class
+org\example\domain\Fruits.class
